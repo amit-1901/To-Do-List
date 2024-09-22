@@ -36,4 +36,5 @@ Delete Task: Click the delete button to remove the task from the list.
 
 Link: [amit-task-tracker.netlify.app](amit-task-tracker.netlify.app)
 
-SnapShot:  ![]
+SnapShot:  ![Snap-> Shot](Snap.png)
+
